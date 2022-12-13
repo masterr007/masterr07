@@ -7,7 +7,7 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 <details><summary><b>Deploy to Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/RoyalKrrishna/MdiskWalaBot">
+<a href="https://heroku.com/deploy?template=https://github.com/jyotirmoydeka/Mdisk-Search-Bot-Pro">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -18,7 +18,7 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 <br/>
 
 <p align="left">
-<a href="https://railway.app/deploy?template=https://github.com/RoyalKrrishna/MdiskWalaBot"">
+<a href="https://railway.app/deploy?template=https://github.com/jyotirmoydeka/Mdisk-Search-Bot-Pro"">
      <img height="30px" src="https://railway.app/button.svg">
   </a>
 </p>
@@ -28,7 +28,7 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
    <summary><b>Deploy to Koyeb</b></summary>
 <br/>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GreyMattersBot/Link-Search-Bot-Pro&branch=main&name=urlshortautofilterbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/jyotirmoydeka/Link-Search-Bot-Pro&branch=main&name=urlshortautofilterbot)
 </details>
 
 # Credits
