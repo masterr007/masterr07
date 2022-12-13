@@ -35,6 +35,7 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
    <summary><b>Deploy to render</b></summary>
 <br/>
 
+<p align="left">
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/jyotirmoydeka/Mdisk-Search-Bot-Pro)
 
 # Credits
