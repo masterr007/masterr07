@@ -31,6 +31,12 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/jyotirmoydeka/Link-Search-Bot-Pro&branch=main&name=urlshortautofilterbot)
 </details>
 
+<details>
+   <summary><b>Deploy to render</b></summary>
+<br/>
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/jyotirmoydeka/Mdisk-Search-Bot-Pro)
+
 # Credits
 
 - Special Thanks to Original Developer @Royalkrrishna.
