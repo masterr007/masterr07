@@ -41,11 +41,10 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 
 # Credits
 
-- Special Thanks to Original Developer @Royalkrrishna.
-- And Thanks to GreyMattersBot for convincing Royalkrrishna to make Repo Public.
+- Special Thanks to Bot Maker @Masterr07.
 
-# Subscribe 
+# Join Tg request group & channel
 
-1) https://youtube.com/@greymattersyt
+1) https://t.me/moviesrequest03
 
-2) https://youtube.com/@GreyMattersBot
+2) https://t.me/netflix_indiago2
