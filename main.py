@@ -1,4 +1,4 @@
-# (c) @RoyalKrrishna
+# (c) @Masterr07
 
 from os import link
 from telethon import Button
