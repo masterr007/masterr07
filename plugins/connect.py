@@ -1,5 +1,5 @@
 
-# (c) @RoyalKrrishna
+# (c) @Masterr07
 from TeamTeleRoid.database import db
 from configs import Config
 from pyrogram import Client, filters
